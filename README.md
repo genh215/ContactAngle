@@ -1,3 +1,3 @@
 # ContactAngle
 For measuring the contact angle of a stationary water droplet.
-This program automatically performs ellipse fitting on the droplet and allows the user to specify the contact surface with two clicks.
+The program uses OpenCV to perform ellipse fitting on the droplet profile and allows the user to define the contact surface with two mouse clicks.
